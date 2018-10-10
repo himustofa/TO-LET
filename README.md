@@ -16,5 +16,8 @@ Updated registration user, Posed ad list, Renter details
 Details posted ad & Post ad
 ![5](https://user-images.githubusercontent.com/26080779/46303134-d4439800-c5cc-11e8-999b-675944a56de6.jpg)
 
+Filter
+![capture](https://user-images.githubusercontent.com/26080779/46738201-692a4d80-ccbf-11e8-8d5f-9d98607d6495.JPG)
+
 Language change
 ![6](https://user-images.githubusercontent.com/26080779/46303224-17057000-c5cd-11e8-9e5a-ba4a0ab86d7e.jpg)
